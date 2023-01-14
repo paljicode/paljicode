@@ -1,6 +1,8 @@
-<H1>HELLO </H1>
+<h1 align="center">HELLO 👋</h1>
 
-I Am Rohit Pal :godmode: Full-Stak Developer from :india:
+I Am Rohit Pal:godmode:Full-Stak Developer from :india:
+
+📧How to reach me **rpal28384@gmail.com**
 
 Sigma Male:male_sign:
 
