@@ -1,6 +1,6 @@
 <h1 align="center">HELLO 👋</h1>
 
-I Am Rohit Pal:godmode:Full-Stak Developer from :india:
+<h3 align="center">I Am Rohit Pal:godmode:Full-Stak Developer from :india:</h3>
 
 📧How to reach me **rpal28384@gmail.com**
 
